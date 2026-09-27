@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pallavi Reddy 👋
 
-<!--
-**pallavireddyt03/pallavireddyt03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Student at REVA University | Beginner Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student interested in Python, GitHub, Artificial Intelligence, and Data Science.
+
+## My Portfolio
+
+🌐 [View My Portfolio](https://pallavireddyt03.github.io/R25EH143/)
+
+## Skills
+
+- Python
+- Git & GitHub
+- HTML & CSS
+- Artificial Intelligence
+- Data Science
